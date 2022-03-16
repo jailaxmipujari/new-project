@@ -1,0 +1,2 @@
+module party {
+}
